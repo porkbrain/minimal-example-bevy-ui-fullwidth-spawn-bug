@@ -1,0 +1,9 @@
+[package]
+name = "bevy_ui_full_width_spawn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "=0.13.2"
+bevy_pixel_camera = "0.13"
+bevy-inspector-egui = { version = "0.24", default-features = false }
